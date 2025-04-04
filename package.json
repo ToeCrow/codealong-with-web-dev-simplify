@@ -1,0 +1,29 @@
+{
+  "name": "codealong-with-web-dev-simplify",
+  "version": "1.0.0",
+  "description": "rest api with node and express",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToeCrow/codealong-with-web-dev-simplify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ToeCrow/codealong-with-web-dev-simplify/issues"
+  },
+  "homepage": "https://github.com/ToeCrow/codealong-with-web-dev-simplify#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "nodemon": "^3.1.9"
+  }
+}
